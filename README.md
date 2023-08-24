@@ -1,35 +1,30 @@
-# nc1-task
+# Task
 
-This template should help get you started developing with Vue 3 in Vite.
+[Getting Started](#Getting-Started)
 
-## Recommended IDE Setup
+#
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Getting Started
 
-## Customize configuration
+1\. First of all you need to clone 'nc1-frontend' repository from github:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+```sh
+git clone https://github.com/NUG01/nc1-frontend.git
+```
 
-## Project Setup
+2\.
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+3\. This step should have been copying .env file, but in that case I will provide it
+
+##### Now, you should be good to go with!
 
 ```sh
-npm run dev
+  npm run dev
+
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+##### Open on localhost!
