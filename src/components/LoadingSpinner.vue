@@ -18,6 +18,7 @@
   left: 50%;
   transform: translate(-50%, -150%);
   box-sizing: border-box;
+  z-index: 1000;
 }
 .lds-roller div {
   animation: lds-roller 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
